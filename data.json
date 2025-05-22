@@ -131,6 +131,104 @@
           "link": "https://dribbble.com/shots/ABC123"
         }
       ]
+    },
+    {
+  "title": "Proyectos de Finanzas y Economía",
+  "items": [
+    {
+      "title": "Bloomberg Markets",
+      "description": "Últimas noticias, datos de mercados y análisis en tiempo real.",
+      "image": "images/bloomberg-markets.png",
+      "link": "https://www.bloomberg.com/markets",
+      "labels": ["Noticias","Mercados","Real-time"]
+    },
+    {
+      "title": "TradingView",
+      "description": "Herramientas de gráficos interactivos y análisis técnico global.",
+      "image": "images/tradingview.png",
+      "link": "https://www.tradingview.com",
+      "labels": ["Análisis Técnico","Charting"]
+    },
+    {
+      "title": "Investing.com",
+      "description": "Datos de cotizaciones, calendarios económicos y análisis financiero.",
+      "image": "images/investing.png",
+      "link": "https://www.investing.com",
+      "labels": ["Datos","Calendario Económico"]
+    },
+    {
+      "title": "Banco Central de Reserva del Perú",
+      "description": "Series históricas macroeconómicas oficiales y reportes de política monetaria.",
+      "image": "images/bcrp.png",
+      "link": "https://www.bcrp.gob.pe/estadisticas/serie.asp",
+      "labels": ["Macroeconomía","Política Monetaria"]
+    },
+    {
+      "title": "CEPAL",
+      "description": "Estudios y bases de datos sobre desarrollo económico de América Latina.",
+      "image": "images/cepal.png",
+      "link": "https://www.cepal.org/es/estadisticas",
+      "labels": ["Desarrollo","Latinoamérica"]
+    },
+    {
+      "title": "Bolsa de Valores de Lima",
+      "description": "Información de acciones, índices y emisiones de la BVL.",
+      "image": "images/bvl.png",
+      "link": "https://www.bvl.com.pe/",
+      "labels": ["Acciones","Índices"]
+    },
+    {
+      "title": "B3 (Brasil)",
+      "description": "Datos de la principal bolsa de valores de Brasil.",
+      "image": "images/b3.png",
+      "link": "https://www.b3.com.br/",
+      "labels": ["Mercados","Brasil"]
+    },
+    {
+      "title": "MERVAL (Argentina)",
+      "description": "Índice de la Bolsa de Buenos Aires y series históricas.",
+      "image": "images/merval.png",
+      "link": "https://www.bcba.sba.com.ar/",
+      "labels": ["Índice","Argentina"]
+    },
+    {
+      "title": "MILA",
+      "description": "Mercado Integrado Latinoamericano: BVL, B3 y Bolsa de Colombia.",
+      "image": "images/mila.png",
+      "link": "https://www.mercadolatinoamericano.com/",
+      "labels": ["Integración","Latinoamérica"]
+    },
+    {
+      "title": "Fondo Monetario Internacional (FMI)",
+      "description": "Reportes mundiales de estabilidad financiera y proyecciones económicas.",
+      "image": "images/imf.png",
+      "link": "https://www.imf.org/es/Publications",
+      "labels": ["Estabilidad","Proyecciones"]
+    },
+    {
+      "title": "Banco Mundial",
+      "description": "Indicadores de desarrollo y financiamiento de proyectos globales.",
+      "image": "images/worldbank.png",
+      "link": "https://data.worldbank.org/",
+      "labels": ["Desarrollo","Finanzas"]
+    },
+    {
+      "title": "Financial Times",
+      "description": "Análisis y noticias financieras de alto nivel.",
+      "image": "images/ft.png",
+      "link": "https://www.ft.com/",
+      "labels": ["Noticias","Análisis"]
+    },
+    {
+      "title": "Reuters",
+      "description": "Cobertura global de eventos económicos y bursátiles.",
+      "image": "images/reuters.png",
+      "link": "https://www.reuters.com/finance/",
+      "labels": ["Cobertura","Mercados"]
     }
   ]
+}
+
+  ]
+  
 }
