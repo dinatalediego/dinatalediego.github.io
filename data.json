@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "title": "Proyectos de Data Science",
+      "items": [
+        {
+          "title": "Pipeline MLOps",
+          "image": "images/mlops.png",
+          "link": "https://github.com/dinatalediego/mlops-pipeline"
+        },
+        {
+          "title": "Modelo XGBoost",
+          "image": "images/xgboost.png",
+          "link": "https://github.com/dinatalediego/xgboost-model"
+        }
+      ]
+    },
+    {
+      "title": "Mis intereses de investigación",
+      "items": [
+        {
+          "title": "Nobel Economics",
+          "image": "images/nobel.png",
+          "link": "research/nobel.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,44 @@
-body {
-  font-family: 'Segoe UI', sans-serif;
+/* Reset y base */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #111; color: #eee; font-family: 'Segoe UI', sans-serif; }
+header { text-align: center; padding: 2rem 0; }
+header h1 { font-size: 2.5rem; }
+header p { opacity: 0.7; }
+
+/* Layout de categoría */
+.category { margin: 2rem 0; }
+.category h2 { margin-left: 1rem; font-size: 1.5rem; }
+.carousel { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; padding: 1rem; }
+.carousel::-webkit-scrollbar { height: 8px; }
+.carousel::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+.card { flex: 0 0 auto; width: 200px; margin-right: 1rem; background: #222; border-radius: 8px; scroll-snap-align: start; }
+.card img { width: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px; }
+.card-body { padding: 0.5rem; }
+.card-body h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+.card-body a { display: inline-block; text-decoration: none; color: #fff; background: #e50914; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.9rem; }
+@media (max-width: 600px) {
+  .card { width: 150px; }
 }
 
-.card {
-  margin-top: 50px;
-  border-radius: 15px;
+/* Reset y base */
+/** { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #111; color: #eee; font-family: 'Segoe UI', sans-serif; }
+header { text-align: center; padding: 2rem 0; }
+header h1 { font-size: 2.5rem; }
+header p { opacity: 0.7; }
+
+/* Layout de categoría *//*
+.category { margin: 2rem 0; }
+.category h2 { margin-left: 1rem; font-size: 1.5rem; }
+.carousel { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; padding: 1rem; }
+.carousel::-webkit-scrollbar { height: 8px; }
+.carousel::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+.card { flex: 0 0 auto; width: 200px; margin-right: 1rem; background: #222; border-radius: 8px; scroll-snap-align: start; }
+.card img { width: 100%; border-top-left-radius: 8px; border-top-right-radius: 8px; }
+.card-body { padding: 0.5rem; }
+.card-body h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+.card-body a { display: inline-block; text-decoration: none; color: #fff; background: #e50914; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.9rem; }
+@media (max-width: 600px) {
+  .card { width: 150px; }
 }
+*/
